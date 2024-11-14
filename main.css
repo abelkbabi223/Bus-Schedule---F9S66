@@ -1,0 +1,31 @@
+body{
+    background-color: #1D1B1C;
+    color: aliceblue;
+    padding: 20px;
+}
+h1{
+    padding: 10px;
+    text-align: center;
+    border: 3px dotted rgb(255, 255, 255);
+}
+h2{
+    color: #53A69c;
+}
+table,th{
+    border: 2px #53A69c solid;
+    padding: 5px;
+    border-radius: 10px;
+ 
+}
+.tab{
+    padding: 5px;
+    border: #53A69c 2px solid;
+    border-radius: 10px;
+    margin: 5px;
+}
+form{
+    border: 2px #53A69c solid;
+    border-radius: 10px;
+    width: 200px;
+    padding: 10px;
+}
